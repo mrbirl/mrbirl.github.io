@@ -464,7 +464,7 @@
 
 				  $("#quote-slideshow").owlCarousel({
 					  	singleItem : true,
-					  	autoPlay : true,
+					  	autoPlay : false,
 					  	pagination : true
 					 
 				  });

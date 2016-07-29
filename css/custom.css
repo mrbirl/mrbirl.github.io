@@ -18,33 +18,39 @@ li#about-link a.nav-current i {
 }
 /**** RESUME ****/
 li#resume-link a.nav-current {
-  border-color: #d7af0d;
+  border-color: #3498db;
 }
 li#resume-link a.nav-current h3,
 #resume-link a.nav-current i {
-  color: #d7af0d;
+  color: #3498db;
 }
 #resume,
 #resume .cat-pages-title h2 {
-  background-color: #d7af0d;
+  background-color: #3498db;
 }
 .timeline h3 {
-  border-bottom-color: #f6db6d;
+  border-bottom-color: #a0cfee;
 }
 .timeline-left ul {
-  border-right-color: #f6db6d;
+  border-right-color: #a0cfee;
 }
 .timeline ul li span:before {
-  border-color: #f6db6d;
+  border-color: #a0cfee;
 }
 .timeline ul li span:after {
-  background-color: #f6db6d;
+  background-color: #a0cfee;
 }
 .single-resume-page .menu a:hover {
-  color: #d7af0d;
+  color: #3498db;
 }
 .single-resume-page .sidebar a:hover {
-  color: #d7af0d;
+  color: #3498db;
+}
+div.achievement-text {
+  text-align: center;
+}
+div.achievement-text a {
+  text-decoration: underline;
 }
 /**** PORTFOLIO ****/
 li#portfolio-link a.nav-current {
